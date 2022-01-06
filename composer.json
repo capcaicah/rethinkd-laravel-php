@@ -1,13 +1,13 @@
 {
-    "name": "resure/rethinkdb-php",
+    "name": "capcaicah/rethinkdb-laravel-php",
     "description": "A clean and solid RethinkDB driver for PHP.",
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/McSloverd/RethinkDB_PHP",
+    "homepage": "https://github.com/capcaicah/rethinkd-laravel-php",
     "authors": [
         {
-            "name": "Simeng Fu Forked from Timon Bolier",
-            "email": "fusimeng@resure.ltd"
+            "name": "capcaicah Forked from Timon Bolier",
+            "email": "swinub15@gmail.com"
         }
     ],
     "keywords": [
